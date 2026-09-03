@@ -1,0 +1,229 @@
+# Coherent Corp. Company Research Report
+
+**Company:** Coherent Corp.  
+**Ticker:** COHR (NYSE)  
+**Valuation date:** September 1, 2026  
+**Decision user:** The fund’s investment committee  
+**Decision:** Whether to initiate an investment position in Coherent Corp.  
+**Call date:** September 3, 2026
+
+## Executive view
+
+My call is to **initiate a buy** in Coherent. I base this judgment on the company’s accelerating revenue, significant earnings recovery, improving gross margin, reported liquidity, and meaningful position in AI-related datacenter infrastructure. (Source: Nicolas’s judgment, call date September 3, 2026; supporting evidence: Coherent FY2026 Form 10-K, Item 7, pp. 74 and 78; Item 8, pp. 96 and 98.)
+
+The investment carries significant risk because operating cash flow weakened sharply, capital expenditures and inventory increased substantially, and the company remains exposed to debt, customer concentration, and a possible slowdown in AI-infrastructure demand. (Source: Coherent FY2026 Form 10-K, Item 7, pp. 83 and 87; Item 8, p. 96; Item 1, p. 19.)
+
+## What the company does
+
+Coherent is a global photonics and advanced-materials company that sells lasers, optical components, transceivers, semiconductor devices, engineered materials, subsystems, and related equipment. Its products are used in datacenters and communications networks as well as industrial manufacturing, semiconductor and display equipment, life sciences, consumer electronics, scientific research, and automotive applications. (Source: Coherent FY2026 Form 10-K, Item 1, pp. 6–21; Note 20, p. 153.)
+
+The company reports two segments. Datacenter & Communications sells products including transceivers, co-packaged-optics components, optical circuit switches, optics, and semiconductor devices. Industrial sells lasers, systems, optics, components, and materials used across manufacturing and scientific markets. (Source: Coherent FY2026 Form 10-K, Note 20, p. 153.)
+
+Coherent makes money primarily by manufacturing and selling these products to equipment manufacturers and other commercial customers worldwide. (Source: Coherent FY2026 Form 10-K, Item 1, pp. 6–21.)
+
+## Recent performance against its history
+
+Revenue increased from $4.708 billion in FY2024 to $5.810 billion in FY2025 and $7.118 billion in FY2026. FY2026 revenue grew approximately 23% year over year and more than 50% over two years. (Source: Coherent FY2026 Form 10-K, Item 8, p. 98; percentage calculations from reported figures.)
+
+Net earnings attributable to Coherent improved from a $156 million loss in FY2024 to $49 million of earnings in FY2025 and $805 million in FY2026. Diluted EPS improved from a $1.84 loss in FY2024 and a $0.52 loss in FY2025 to positive diluted EPS of $4.12 in FY2026. (Source: Coherent FY2026 Form 10-K, Item 8, p. 98; Note 19, pp. 151–152.)
+
+Gross margin improved from approximately 31% in FY2024 to 35% in FY2025 and 37.5% in FY2026. Management attributed the latest improvement partly to lower product-input costs, better manufacturing cycle times and yields, pricing optimization, and lower intangible-asset amortization. (Source: Coherent FY2026 Form 10-K, Item 7, pp. 74 and 79; FY2026 margin calculated from Item 8 figures on p. 98.)
+
+Datacenter & Communications was the principal growth driver. FY2026 segment revenue increased 40% to $5.275 billion, while segment profit increased 47% to $1.330 billion. Management primarily connected this performance to strong AI-datacenter demand, especially for transceivers, and higher communications volumes. (Source: Coherent FY2026 Form 10-K, Item 7, p. 78.)
+
+Industrial revenue declined 10% to $1.844 billion, partly because Coherent sold its aerospace and defense business and its Munich business; segment profit nevertheless increased 4% to $423 million. (Source: Coherent FY2026 Form 10-K, Item 7, p. 78.)
+
+## What I view positively
+
+I view the growth in Datacenter & Communications as evidence that Coherent is participating meaningfully in AI-infrastructure spending rather than merely describing AI as a future opportunity. (Source: Nicolas’s judgment, call date September 3, 2026; underlying results: Coherent FY2026 Form 10-K, Item 7, p. 78.)
+
+I view the earnings recovery and gross-margin improvement as signs that higher volume, manufacturing efficiencies, pricing, and product mix are producing operating leverage. (Source: Nicolas’s judgment, call date September 3, 2026; supporting evidence: Coherent FY2026 Form 10-K, Item 7, pp. 74 and 78; Item 8, p. 98.)
+
+Coherent’s vertically integrated operations, technical capabilities across materials and finished photonics products, worldwide manufacturing base, and customer relationships may make qualified products more difficult to replace. (Source: Coherent FY2026 Form 10-K, Item 1, pp. 11 and 19, for vertical integration, operations, customer relationships, quality, and technical support; replacement-difficulty conclusion: Nicolas’s judgment, call date September 3, 2026.)
+
+The company had $1.162 billion of cash, $825 million of short-term investments, and $664 million of available revolving-credit capacity at June 30, 2026. Management stated that existing cash, operating cash flow, and borrowing capacity should fund expected needs for at least the following twelve months. (Source: Coherent FY2026 Form 10-K, Item 7, p. 87.)
+
+## What concerns me
+
+Operating cash flow fell from $634 million in FY2025 to $80 million in FY2026, while capital expenditures increased from $441 million to $1.103 billion. Simple free cash flow—operating cash flow less capital expenditures—was therefore approximately negative $1.023 billion in FY2026. (Source: Coherent FY2026 Form 10-K, Item 7, p. 83; free-cash-flow calculation from reported figures.)
+
+Inventory increased from $1.438 billion to $2.581 billion. Management said the additional inventory supported higher revenue, but it consumed working capital and could become a problem if customer demand disappoints. (Source: Coherent FY2026 Form 10-K, Item 7, pp. 83–84; Item 8, p. 96; potential downside: Nicolas’s judgment, call date September 3, 2026.)
+
+Total debt was $3.222 billion at June 30, 2026, and FY2026 interest expense was $190 million. Although debt declined from $3.687 billion a year earlier, I consider it a meaningful claim on future cash generation. (Source: Coherent FY2026 Form 10-K, Item 7, p. 87; Item 8, pp. 96 and 98; Note 8, p. 122; judgment: Nicolas, call date September 3, 2026.)
+
+Two customers each contributed more than 10% of FY2026 revenue, creating customer-concentration risk. (Source: Coherent FY2026 Form 10-K, Item 1, p. 19.)
+
+Reported FY2026 earnings included a $124 million gain on the sale of a business, along with restructuring and impairment charges. I therefore would not automatically treat reported net income as normalized recurring earnings. (Source: Coherent FY2026 Form 10-K, Item 7, p. 74; Item 8, p. 98; normalization judgment: Nicolas, call date September 3, 2026.)
+
+## Advantages, challenges, and outlook
+
+The principal advantages I see are exposure to expanding datacenter demand, broad photonics and materials expertise, vertical integration, a global manufacturing footprint, continued R&D investment, and service to several end markets. (Source: Nicolas’s judgment, call date September 3, 2026; supporting evidence: Coherent FY2026 Form 10-K, Item 1, pp. 11, 19 and 21; Item 7, p. 78.)
+
+The principal challenges and risks are a slowdown in AI-datacenter spending, customer concentration, technological substitution, capacity-expansion execution, excess inventory, high capital requirements, debt and interest-rate exposure, international supply-chain disruption, foreign-exchange movements, and geopolitical or export-control restrictions. (Source: Coherent FY2026 Form 10-K, Item 1, p. 19; Item 7, pp. 83–88; prioritization: Nicolas’s judgment, call date September 3, 2026.)
+
+The 10-K does not provide a conventional numerical revenue or earnings forecast. Management emphasizes continued investment in transceivers, co-packaged optics, optical circuit switches, manufacturing capacity, and R&D, while stating that available liquidity should cover expected needs for at least twelve months. (Source: Coherent FY2026 Form 10-K, Item 1, p. 21; Item 7, pp. 74 and 87.)
+
+## Valuation and enterprise-to-equity bridge
+
+Equity value represents the value attributable to common shareholders, whereas enterprise value reflects operating-business value attributable to capital providers before financing claims are settled. (Source: Nicolas’s class definition, provided in conversation.)
+
+The class bridge used here is: enterprise value equals equity value plus debt, preferred stock, and noncontrolling interests, less cash and cash-like investments. (Source: Nicolas’s class exercise, provided in conversation.)
+
+At June 30, 2026, Coherent reported $3.222 billion of debt, no preferred-stock carrying balance, $335 million of noncontrolling interests, $1.162 billion of cash, and $825 million of short-term investments. Treating the short-term investments as cash-like produces an enterprise-value adjustment of approximately $1.570 billion above equity value. (Source: Coherent FY2026 Form 10-K, Item 8, p. 96; Note 8, p. 122; calculation from reported figures.)
+
+An exact P/E, PEG, price-to-sales multiple, or enterprise-value multiple for September 1, 2026 is not established because no dated share price or analyst growth forecast was supplied. (Source: `IntuitiveSurgery_10-K_filing_data_analysis_9.1.2026.md`, “Market-based valuation ratios”; market-price and analyst-growth sources: `UNSOURCED`.)
+
+I am willing to initiate without a completed market-multiple comparison because I currently place greater weight on the operating recovery and AI-datacenter opportunity. I consider completion of the valuation work an urgent follow-up, not evidence that has already been established. (Source: Nicolas’s judgment, call date September 3, 2026.)
+
+## Consequential assumptions and unknowns
+
+- I assume AI-datacenter demand will remain sufficiently strong to support Coherent’s capacity investments, although a specific future growth rate has not been established. (Source: Nicolas’s assumption, call date September 3, 2026; future rate: `UNSOURCED`.)
+- I assume recent margin improvement is partly sustainable rather than entirely temporary or cyclical. (Source: Nicolas’s assumption, call date September 3, 2026.)
+- I treat the $825 million of short-term investments as cash-like for the enterprise-value bridge. (Source: Nicolas’s valuation assumption, call date September 3, 2026; balance: Coherent FY2026 Form 10-K, Item 8, p. 96.)
+- The return and timing of the company’s capacity investments remain unknown. (Source: `UNSOURCED`.)
+- A normalized earnings and free-cash-flow baseline remains unknown. (Source: `UNSOURCED`.)
+- The appropriate peer group and Coherent’s relative valuation remain unknown. (Source: `UNSOURCED`.)
+- The identities and expected durability of the customers responsible for reported concentration remain unknown from the evidence reviewed. (Source: Coherent FY2026 Form 10-K, Item 1, p. 19, for concentration; identities and durability: `UNSOURCED`.)
+- Verified insider open-market purchases have not yet been established. (Source: `UNSOURCED`.)
+
+## Research plan
+
+1. Obtain COHR’s September 1, 2026 closing price and market capitalization from a dated market source and calculate enterprise value using the documented bridge. (Source: Nicolas’s research plan, call date September 3, 2026.)
+2. Normalize earnings and cash flow for divestiture gains, restructuring, impairment, working-capital movements, and unusual items. (Source: Nicolas’s research plan, call date September 3, 2026.)
+3. Compare three to five years of revenue, margins, EPS, cash flow, inventory, capital expenditures, debt, and return on invested capital. (Source: Nicolas’s research plan, call date September 3, 2026.)
+4. Select a transparent peer group and compare growth, margins, leverage, P/E, PEG, EV/revenue, EV/EBITDA, and free-cash-flow yield using consistent dates and definitions. (Source: Nicolas’s research plan, call date September 3, 2026.)
+5. Review management’s earnings calls and investor materials to test demand, concentration, pricing, capacity commitments, inventory quality, and expected investment returns. (Source: Nicolas’s research plan, call date September 3, 2026.)
+6. Review SEC Forms 4 for verified insider open-market purchases and separate them from grants, gifts, option exercises, and other compensation transactions. (Source: Nicolas’s research plan, call date September 3, 2026.)
+7. Build base, upside, and downside cases and compare their expected returns and losses with the S&P 500, bonds, and relevant peers. (Source: Nicolas’s research plan, call date September 3, 2026.)
+
+## Falsification question
+
+**Partner-generated question:** Why did you include a 15% weight for company size in your company screening? (Source: partner-generated question provided by Nicolas in conversation.)
+
+**My answer:** I emphasize small- and medium-sized companies because I believe they may have greater potential to grow and increase in value. They may also trade at lower valuations, although company size alone does not prove that a stock is inexpensive. (Source: Nicolas’s judgment, provided in conversation.)
+
+## My call
+
+**INITIATE A BUY in Coherent Corp.** I believe its AI-datacenter exposure, rapid segment growth, improving margins, earnings recovery, technical capabilities, and reported liquidity justify beginning a position despite unresolved valuation and cash-flow risks. (Source: Nicolas’s judgment, call date September 3, 2026; supporting evidence: Coherent FY2026 Form 10-K, Item 1, pp. 11, 19 and 21; Item 7, pp. 74, 78, 83 and 87; Item 8, pp. 96 and 98.)
+
+I would change the decision from buy to sell if evidence showed that Coherent’s AI-datacenter demand and capacity investments were failing to produce sustainable positive free cash flow while debt or inventory risk continued to rise. (Source: Nicolas’s decision rule, call date September 3, 2026.)
+
+# Historical Promise Check and Recent Company Developments
+
+## FY2024 management commitments versus FY2026 results
+
+### 1. Develop higher-speed datacenter products
+
+In FY2024, management said 800G transceivers were already shipping and expected the first 1.6T transceiver samples later in calendar 2024. The company also planned continued investment in 800G and 1.6T transceivers, co-packaged optics, silicon photonics, and optical circuit switches. [1]
+
+By FY2026, Coherent listed 800G and 1.6T transceivers, co-packaged optics, optical circuit switches, and components supporting 3.2T and 6.4T systems among its active development programs. In March 2026, it publicly demonstrated multiple 1.6T transceivers and technology intended for 3.2T and 12.8T systems. [2][3]
+
+**Assessment:** The broader product-development commitment clearly progressed. However, the FY2026 10-K does not explicitly confirm when the first 1.6T samples shipped, so the specific timing promise cannot be conclusively verified from the 10-K alone. [1][2]
+
+### 2. Continue investing in research and development
+
+Management said in FY2024 that it intended to continue making significant investments in research, development, and engineering. Its stated projects included faster transceivers, optical circuit switches, silicon photonics, pump lasers, optical monitoring, and more automated manufacturing. [1]
+
+R&D expense increased from $479 million in FY2024 to $582 million in FY2025 and $723 million in FY2026. The FY2026 filing continued to identify 800G/1.6T transceivers, co-packaged optics, optical circuit switches, semiconductor devices, and advanced manufacturing as important R&D areas. [2]
+
+**Assessment:** This commitment was fulfilled in spending terms. R&D increased by approximately 51% between FY2024 and FY2026, although spending growth by itself does not prove that every individual project achieved commercial success. [1][2]
+
+### 3. Improve operational performance
+
+In FY2024, management said it intended to focus on operational excellence and use vertical integration, production scale, and manufacturing efficiencies to improve its competitive position. [1]
+
+From FY2024 to FY2026, revenue increased from $4.708 billion to $7.118 billion. Gross margin improved from approximately 31% to 37.5%, and net earnings attributable to Coherent improved from a $156 million loss to $805 million of profit. Management attributed part of the margin improvement to lower input costs, shorter manufacturing cycle times, better yields, pricing optimization, and lower intangible-asset amortization. [2]
+
+**Assessment:** The reported revenue, margin, and earnings results support the conclusion that substantial operational improvement occurred. The result was not entirely recurring because FY2026 earnings also included a $124 million gain on the sale of a business and restructuring and impairment charges. [2]
+
+### 4. Complete restructuring and site consolidation
+
+In FY2024, management expected its May 2023 restructuring actions to be substantially completed by the end of FY2025. The plan was intended to simplify the company, consolidate facilities, lower costs, and support a more resilient operating model. Management also referred to a previously announced $250 million synergy plan. [1]
+
+The FY2026 filing reported that restructuring costs were not material within either operating segment, but it also disclosed a separate 2025 restructuring plan. That newer plan produced approximately $107 million of charges in FY2025 and $62 million in FY2026, with some related cash expenditures expected in FY2027. [2]
+
+**Assessment:** The evidence does not establish that the original 2023 plan missed its deadline because the later charges relate to a separately identified 2025 plan. It does show that restructuring activity continued after the original expected completion date through a new program. [1][2]
+
+### 5. Expand key accounts while accepting customer concentration
+
+In FY2024, management intended to increase the number and size of its key accounts. It also warned that significant customer concentration would probably continue. One customer generated more than 10% of FY2024 revenue. [1]
+
+In FY2026, two customers each generated more than 10% of revenue. Coherent also entered a multiyear strategic agreement with NVIDIA involving a multibillion-dollar purchase commitment and capacity rights. [2][4]
+
+**Assessment:** Management succeeded in expanding an important strategic customer relationship, but the concentration risk it warned about also increased: two customers crossed the 10% threshold in FY2026 compared with one in FY2024. [1][2][4]
+
+## Three recent news and press releases
+
+### 1. NVIDIA strategic partnership — March 2, 2026
+
+- NVIDIA agreed to invest $2 billion in Coherent to support R&D, manufacturing capacity, and operations associated with expanded U.S. production. [4]
+- The nonexclusive agreement included a multibillion-dollar purchase commitment and future access and capacity rights covering advanced lasers and optical-networking products. [4]
+- The arrangement expands a relationship that Coherent CEO Jim Anderson described as having existed for approximately 20 years and broadens NVIDIA’s access across multiple Coherent product families. [4]
+
+**Investment relevance:** The agreement provides external validation of Coherent’s photonics technology and improves demand visibility, but it also increases the importance of NVIDIA and related AI spending to Coherent’s results. (Source for facts: [4]; investment interpretation: Nicolas’s research analysis.)
+
+### 2. Proposed CHIPS funding and Sherman expansion — June 16, 2026
+
+- Coherent signed a letter of intent for up to $50 million of direct CHIPS Act funding to expand its six-inch indium-phosphide manufacturing facility in Sherman, Texas. The funding was proposed rather than finally awarded in the announcement. [5]
+- The planned expansion would double manufacturing space and quadruple wafer-production capacity. [5]
+- Coherent expected the completed project to create more than 1,000 jobs, including over 550 direct manufacturing, engineering, and technical positions. [5]
+
+**Investment relevance:** The project could increase domestic production of components required for AI optical networks. It also reinforces the execution risk already present in Coherent’s high capital spending because new capacity must ultimately produce adequate revenue and cash returns. (Source for facts: [5]; investment interpretation: Nicolas’s research analysis.)
+
+### 3. Demonstration of next-generation transceivers — March 17, 2026
+
+- Coherent demonstrated several types of 1.6T transceivers using silicon photonics, indium-phosphide lasers, electro-absorption-modulated lasers, and VCSEL technology. [3]
+- It also demonstrated 400G-per-lane links intended to support emerging 3.2T transceiver architectures. [3]
+- The company presented a proposed XPO pluggable form factor for systems operating at 12.8T and beyond. [3]
+
+**Investment relevance:** These demonstrations support management’s claim that its advantage comes from operating across several optical technologies instead of depending on a single technical architecture. Demonstrations do not establish customer adoption, shipment volume, profitability, or market share. (Source for facts: [3]; investment interpretation and limitations: Nicolas’s research analysis.)
+
+## Three recent quarterly-result and CEO communications
+
+The company’s investor-relations page lists official result announcements and conference-call webcasts for all three periods below. [6]
+
+### 1. FY2026 second quarter — February 4, 2026
+
+- Revenue was $1.69 billion, up 17% year over year, or 22% on the company’s pro forma basis after adjusting for the aerospace and defense divestiture. [7]
+- GAAP gross margin was 36.9%, an improvement of 145 basis points, while GAAP diluted EPS increased 71% to $0.76. [7]
+- CEO Jim Anderson said management expected strong growth during the second half of FY2026 and throughout FY2027, supported by datacenter and communications demand, capacity expansion, and improving Industrial demand. [7]
+
+**What happened afterward:** Q3 revenue reached $1.81 billion and Q4 revenue reached $2.05 billion, so sequential growth continued through the remainder of FY2026. The longer FY2027 portion of the CEO’s expectation was not yet measurable as of the FY2026 year-end announcement. [8][9]
+
+### 2. FY2026 third quarter — May 6, 2026
+
+- Revenue was $1.81 billion, up 21% year over year, or 27% on the company’s pro forma basis. [8]
+- GAAP gross margin reached 37.7%, up 243 basis points, while GAAP diluted EPS improved by $1.08 to $0.97. [8]
+- Anderson attributed the quarter’s performance to strong Datacenter & Communications demand and said Coherent was rapidly expanding capacity to serve AI infrastructure. CFO Sherri Luther similarly connected increased capital investment with the company’s demand visibility. [8]
+
+**What happened afterward:** Q4 revenue rose to $2.05 billion, GAAP gross margin increased to 38.5%, and GAAP diluted EPS reached $1.19. These results support management’s near-term expectation of continued growth and margin improvement, although they do not prove that the new capacity will earn adequate long-term returns. [9]
+
+### 3. FY2026 fourth quarter and full year — August 12, 2026
+
+- Q4 revenue was $2.05 billion, up 34% year over year, or 42% on the company’s pro forma basis. [9]
+- GAAP gross margin was 38.5%, up 277 basis points, and GAAP diluted EPS was $1.19, an improvement of $2.02 from the prior-year quarter. [9]
+- Anderson said Coherent entered FY2027 with strong customer demand, expanding production capacity, and several new growth platforms beginning to ramp. Management expects the transition from copper to optical connectivity in AI datacenters to remain a multiyear opportunity. This is management’s forward-looking position, not a reported outcome. [9]
+
+**Investment relevance:** The quarterly progression supports the view that FY2026 operating momentum strengthened during the year. The important remaining test is whether higher revenue and earnings translate into sustainable free cash flow after the company’s capacity and working-capital investments. (Source for quarterly facts: [7][8][9]; investment interpretation: Nicolas’s research analysis.)
+
+## Overall conclusion
+
+The FY2024 strategy largely progressed in the intended direction. Coherent increased R&D, developed and demonstrated higher-speed optical products, expanded its AI-datacenter business, and materially improved revenue, gross margin, and earnings by FY2026. [1][2][3]
+
+Not every commitment can be marked fully complete. The exact timing of the first 1.6T samples is not confirmed by the FY2026 10-K, optical-circuit-switch revenue is not separately disclosed, and restructuring continued under a newer plan. [1][2]
+
+The recent evidence strengthens the original buy thesis by showing real datacenter growth, improving margins, technical progress, and a major NVIDIA commitment. It also reinforces the central risks: customer concentration, heavy capital requirements, rapidly increasing capacity, and the need to convert reported earnings into sustainable cash flow. (Source for underlying facts: [2][4][5][7][8][9]; conclusion: Nicolas’s research analysis.)
+
+## Sources
+
+1. [Coherent Corp., FY2024 Form 10-K, filed August 16, 2024](https://www.sec.gov/Archives/edgar/data/820318/000082031824000016/iivi-20240630.htm) — Item 1, pp. 13–19; Item 7, pp. 49–50; Item 1A, pp. 37–38.
+2. [Coherent Corp., FY2026 Form 10-K, filed August 14, 2026](https://www.sec.gov/Archives/edgar/data/820318/000082031826000020/iivi-20260630.htm) — Item 1, pp. 9–12 and 19; Item 7, pp. 74, 78 and 83–87; Item 8, pp. 96 and 98; Note 12 and Note 20.
+3. [Coherent, “Demonstrates Technologies for Next-Generation Pluggable Transceiver at OFC 2026,” March 17, 2026](https://www.coherent.com/news/press-releases/coherent-demonstrates-next-gen-pluggable-transceiver-ofc-2026).
+4. [NVIDIA and Coherent, “Strategic Partnership to Develop Optics Technology,” March 2, 2026](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Coherent-Announce-Strategic-Partnership-to-Develop-Optics-Technology-to-Scale-Next-Generation-Data-Center-Architecture/default.aspx).
+5. [Coherent, “CHIPS Letter of Intent for $50 Million,” June 16, 2026](https://ir.coherent.com/news-releases/news-release-details/coherent-announces-chips-letter-intent-50-million-expand-world).
+6. [Coherent Investor Relations, Financial Press Releases and Webcasts](https://www.coherent.com/company/investor-relations/financial-releases).
+7. [Coherent, FY2026 Second-Quarter Results, February 4, 2026](https://www.coherent.com/news/press-releases/second-quarter-fiscal-year-2026-results).
+8. [Coherent, FY2026 Third-Quarter Results, May 6, 2026](https://www.coherent.com/news/press-releases/third-quarter-fiscal-year-2026-results).
+9. [Coherent, FY2026 Fourth-Quarter and Full-Year Results, August 12, 2026](https://www.coherent.com/news/press-releases/fourth-quarter-and-fiscal-year-2026-results).
+
+This report was written for FIN 43900 (AI Finance Applications, Purdue) as a learning exercise. It is not investment research and it is not financial advice. AI assistance: drafted with ChatGPT/Codex, resumed from my Lab 03 session; sources gathered and verified by me; the judgments are mine. Any remaining errors are my own.
