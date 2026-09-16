@@ -106,4 +106,4 @@ This uses more filing information than the training 85/15 weights, but it is not
 
 ## Verification and next decisions
 
-Statement pages 96, 98, 102, 104, 122, 145, and 152 were visually checked against extracted text. Debt, diluted shares, cash flow subtraction, and WACC arithmetic were recalculated. Next decisions are the recovery forecast, terminal growth, normalized tax treatment, excess cash and other claims, and final market-based WACC assumptions. This memo records research inputs; the Python model still contains its training inputs.
+Statement pages 96, 98, 102, 104, 122, 145, and 152 were visually checked against extracted text. Debt, diluted shares, cash flow subtraction, and WACC arithmetic were recalculated.
