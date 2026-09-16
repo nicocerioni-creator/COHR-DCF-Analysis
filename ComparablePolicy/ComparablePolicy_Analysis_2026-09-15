@@ -1,0 +1,34 @@
+P/E measures how much investors pay for each dollar of earnings and is a common benchmark to quickly evaluate
+companies within the same industry. Price per share is the cost of a single share of stock on the market. A 
+P/E multiple tells you same thing as the P/E ratio but P/E is measured in dollars while the P/E multiple is 
+ratio of price to earnings (i.e. 20x multiple if a stock trades at $100 and earns $5 per share). It is 
+difficult to compare total earnings alone because companies have different sizes; by using the P/E ratio, 
+you can normalize the comparison. P/E is useful in conjunction with a DCF because it adds a market-based
+comparison to the value of the DCF. Whereas a DCF estimates what a company should be worth based on future
+cash flows, the P/E ratio shows how the market values a company's earnings compared to companies within
+the same industry. P/E can be useful when comparing business models and industries, comparing the same company
+throughout its history, comparing profit margins, and more; however, P/E can also be misleading. When earnings 
+are negative, P/E is negative and therefore useless. Similarily, one-time gains, restructuring costs, tax 
+benefits, bail outs, or similar circumstances can give the ratio a distorted price because it only factors in
+1 year of earnings. In addition, different growth projections (fast vs slow growth) and different debt levels 
+(high debt or interest rates can distort the P/E) are also highly influential and can change the P/E. Therefore,
+a lower P/E is not always a good investment. 
+
+In the Python script results, when the higher-multiple peer is removed, the share price estimate will lower 
+because only the P/E of the lower-multiple peer remains. This occurred when GP1 was removed: the estimated share
+price was reduced by $15.18. AutoNation belongs in the comparison because it sells vehicles, earns money from 
+parts and service, and has income from finance and insurance. Its AutoNation Finance needs qualification 
+because it lends to businesses which is not part of Asbury's portfolio as it adds credit and funding risks. 
+Group 1 belongs with qualification because it shares the dealership business model, but because it has US and 
+UK operations, it has exposure to different markets and exchange rates. In addition, its acquisition of 54
+Inchcape dealerships during 2024 affects its earnings comparability because it only had ownership for part of 
+the year and has significant integration costs. 
+
+This comparison does not prove that Asbury is fairly valued. The $215.81 to $246.18 range shows what Asbury 
+would be worth if it had its peers' P/Es. Absury has different growth, risk, and debt which would benefit from 
+another multiple, and its peers AutoNation and GP1 may be mispriced on the market. Asbury has a current (case 
+supplied price) share price of $243.03 which falls within the range. This is simply a comparison, not proof of 
+fair value. 
+
+This is not investment advice. Python script and portions of analysis written with AI to promote learning. This 
+lab was part of FIN439. All judgements were my own and any mistakes made were my own. 
