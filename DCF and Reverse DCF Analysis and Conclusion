@@ -1,7 +1,7 @@
-My model (9/15/2026) estimated a share price of $57.20 for COHR compared to a current price (as of 9/15/2026 at 
+The reverse DCF (9/15/2026) estimated a share price of $57.20 for COHR compared to a current price (as of 9/15/2026 at 
 7:56:50) of $271.17 per share. Our predicted share price is around 5 times less than the actual price stock 
-price of the company. This could be attributed to a number of reasons including our assumption implying less
-future cash flow than market price seems to anticipate, growth sharply slowing down (40.5% -> 15% -> 10% ->
+price of the company. This could be attributed to a number of reasons including our assumptions in the DCF implying 
+less future cash flow than market price seems to anticipate, growth sharply slowing down (40.5% -> 15% -> 10% ->
 6% -> 3% over the next 5 years), a substantial investment (capital expenditures and working capital consume
 significant cash), and WACC still being a placeholder. Our assumptions of growth, margin, and reinvestment 
 have a major impact on the forecast. Our forecast does not prove that COHR is overpriced; rather, it shows 
