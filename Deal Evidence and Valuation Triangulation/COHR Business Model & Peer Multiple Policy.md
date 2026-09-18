@@ -85,30 +85,25 @@ they had a profit of $782.3 million.
 Fabrinet will be used because its revenue depends on similar sectors to COHR: datacenter products generated 
 47.9% of its revenue and communication infrastructure provided 33.3% of FY2026. This places it in a similar 
 spot as COHR with customer demand and needs as well as the AI investment needed by COHR 
-(https://www.sec.gov/ix?doc=/Archives/edgar/data/0001408710/000140871026000028/fn-20260626.htm#i24e79a96b66f4
-be1947ffd8e83bf4eab_19, Item 7-Results of Operations, Revenues, page 45). In addition, growth requires an 
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/0001408710/000140871026000028/fn-20260626.htm#i24e79a96b66f4be1947ffd8e83bf4eab_19, Item 7-Results of Operations, Revenues, page 45). In addition, growth requires an 
 increase in manufacturing capacity as it reports a new two million square foot facility costing around $132.5 
-million (https://www.sec.gov/ix?doc=/Archives/edgar/data/0001408710/000140871026000028/fn-20260626.htm#i24e79
-a96b66f4be1947ffd8e83bf4eab_19, Item 7-Liquidity and Capital Resources, page 48). Like COHR, it must commit to 
+million (https://www.sec.gov/ix?doc=/Archives/edgar/data/0001408710/000140871026000028/fn-20260626.htm#i24e79a96b66f4be1947ffd8e83bf4eab_19, Item 7-Liquidity and Capital Resources, page 48). Like COHR, it must commit to 
 large capital expenditures before knowing whether the future will continue having high demand for AI and 
 communication network infrastructure. Lastly, FN's manufacturing profit is dependent on yield and quality 
 standard with errors or bad judgement could increase costs, harm the business, and hurt customer relations 
-(https://www.sec.gov/ix?doc=/Archives/edgar/data/0001408710/000140871026000028/fn-20260626.htm#i24e79a96b66f4
-be1947ffd8e83bf4eab_19, Item 1A-Risk Factors, page 19). COHR is in a similar boat in which its in-house 
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/0001408710/000140871026000028/fn-20260626.htm#i24e79a96b66f4be1947ffd8e83bf4eab_19, Item 1A-Risk Factors, page 19). COHR is in a similar boat in which its in-house 
 manufacturing exposes it to manufacturing execution, efficiency, and production costs. 
 
 Although Lumentum may as a business-peer candidate, it is excluded from the reported annual P/E calculation.
 Lumentum has similar products that generate revenue (optical transceivers, laser transmitters, and optical 
-components) that connect datacenter equipment (https://www.sec.gov/ix?doc=/Archives/edgar/data/0001633978/0001
-62828026057358/lite-20260627.htm, Item 1-Business "Industry Conditions," page 3). This is very similar to 
+components) that connect datacenter equipment (https://www.sec.gov/ixdoc=/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm, Item 1-Business "Industry Conditions," page 3). This is very similar to 
 COHR's optical hardware business. In addition, it has similar customer demand drivers to COHR because AI/cloud
-expansion and higher-bandwidth networks drive most of its busines (https://www.sec.gov/ix?doc=/Archives/edgar/
-data/0001633978/000162828026057358/lite-20260627.htm, Item. 1-Business "Our Industry" and "Industry Conditions"
+expansion and higher-bandwidth networks drive most of its busines (https://www.sec.gov/ixdoc=/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm, Item. 1-Business "Our Industry" and "Industry Conditions"
 page 3). Lastly, Lumentum also faces similar manufacturing investment risks: as it invests in increased 
 capacity to meet demand, any underutilized capacity hurts its margins, which is in line with COHR
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm, "Industry 
 Conditions," page 3). However, Lumentum reported -$92.96 diluted EPS for FY2026 ending in 6/27/2026 and 
-negative earnings do not provide a meaningful reported P/E benchmark (https://www.sec.gov/ix?doc=/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm, Item 8-Financial Statements, Note 3-Earnings Per 
+negative earnings do not provide a meaningful reported P/E benchmark (https://www.sec.gov/ixdoc=/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm, Item 8-Financial Statements, Note 3-Earnings Per 
 Share, page 83). Therefore, because its revenue-percentage is unresolved and because of its negative EPS, 
 Lumentum will be excluded.
 
