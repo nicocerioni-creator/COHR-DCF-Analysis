@@ -107,28 +107,89 @@ negative earnings do not provide a meaningful reported P/E benchmark (https://ww
 Share, page 83). Therefore, because its revenue-percentage is unresolved and because of its negative EPS, 
 Lumentum will be excluded.
 
-**9/15/2026 Data and Comparable Policy Calculator Results**
+**Company 9/15/2026 Price, FY2026 Fiscal Year Data, and Sources**
 Target Prices 9/15/2026:
-FN:
-LITE:
+COHR: $271.17/share
 
 Peer Prices 9/15/2026:
-FN:
-LITE:
+FN: $374.91/share
+LITE: $838.96/share
 
-Annual Reported Diluted EPS:
-FN:
-LITE:
+GAAP Annual Reported Diluted EPS:
+COHR: $4.12/share
+FN: $13.05/share
+LITE: -$92.96/share
 
 Fiscal Year-End:
-FN:
-LITE:
+COHR: 6/30/2026
+FN: 6/26/2026
+LITE: 6/27/2026
 
 Publication Date:
-FN:
-LITE:
+COHR: 8/12/2026
+FN: 8/17/2026
+LITE: 8/11/2026
 
 Source Locator:
-FN:
-LITE:
+COHR: 
+      A) https://www.sec.gov/ix?doc=/Archives/edgar/data/0000820318/000082031826000020/iivi-20260630.htm
+        Item 8, Note 19-Earnings Per Share, page 85
+      B) https://ir.coherent.com/news-releases/news-release-details/coherent-corp-reports-fourth-quarter-and-full-year-fiscal-2026
+        Table 1, GAAP Financial Results, FY2026, Diluted Earnings (LOSS) Per Share
+      C) https://finance.yahoo.com/quote/COHR/history/
 
+FN:
+       A) https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm
+        Item 8, Note 5-Earnings Per Ordinary Share, page 74
+      B) https://investor.fabrinet.com/node/13666/pdf
+        Fiscal Year 2026 Financial Highlights
+      C) https://finance.yahoo.com/quote/FN/
+
+LITE:
+      A) https://www.sec.gov/ix?doc=/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm
+        Item 8, Note 3-Earnings Per Share, page 83
+      B) https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx
+      C) https://finance.yahoo.com/quote/LITE/history/
+
+**Comparable Policy Script Output**
+COHR’s single-peer reference is $118.36 per share. There is no peer range: FN supplies the only usable P/E; LITE’s negative annual EPS is excluded.
+
+  ComparablePolicy | 2026-09-15 | Lab07
+  September 15, 2026 closing prices; latest full-year GAAP diluted EPS
+  public by that date. USD per listed share; no adjusted or quarterly EPS.
+  P/E is equity-to-equity: no cash/debt bridge.
+
+  Input audit (USD per share):
+    COHR: price=$271.17; annual reported diluted EPS=$4.12; FY end=2026-06-30; published=2026-08-12
+    FN: price=$374.91; annual reported diluted EPS=$13.05; FY end=2026-06-26; published=2026-08-17
+    LITE: price=$838.96; annual reported diluted EPS=$-92.96; FY end=2026-06-27; published=2026-08-11
+
+  Target: COHR — Coherent Corp.
+  Target P/E: 65.817961x
+
+  FN: Qualify: optical manufacturing and datacenter/communications demand; contract-manufacturing economics differ from
+  COHR. Exact comparison-date market-cap verification remains unresolved.
+    P/E: 28.728736x; implied target price: $118.36
+  LITE: Qualify as business candidate: optical products, AI/network demand, and manufacturing investment. Exclude from
+  reported P/E: negative annual EPS.
+    EPS source: FY2026 SEC 10-K, Item 8, Note 3, Earnings Per Share, p. 83
+    P/E and peer-implied price: not meaningful (missing, invalid, or nonpositive price/EPS).
+
+  Unique peers with usable positive P/E inputs: 1
+  Median peer P/E: 28.728736x
+  One valid peer: reference estimate $118.36; no range.
+
+  Peer-removal sensitivity (change from single-peer reference):
+  Baseline single-peer reference: $118.36
+  Remove FN: no usable peers remain; no estimate or dollar change.
+  Remove LITE: Coherent Corp. (COHR) target + FN peer(s) remain.
+    Remaining median P/E: 28.728736x
+    Implied target price: $118.36; one-peer reference, no range
+    Change from single-peer reference: +$0.00 (calculated before rounding)
+
+**Output Analysis**
+FN qualifies because its optical manufacturing exposes it to customer network spending, production yields, and capacity investment. Datacenter and communications infrastructure contributed to 81.2% of FY2026 revenue. Its contract-manufacturing model remains a difference from COHR. The source was the SEC 10-K FY2026 report for FN. 
+
+LITE is a business candidate, but excluded from the P/E. Its optical transceivers, AI/cloud demand, and manufacturing expansion support business comparability. However, annual diluted EPS is -$92.96 and the revenue received from datacenters and communication networks is unresolved. A negative P/E (negative earnings) does not provide a meaningful positive-earnings valuation benchmark. Zero EPS would make division undefined. The source was the SEC 10-K FY2026 report for LITE. 
+
+The $118.36 share price remains a conditional single-peer reference becaue LITE was excluded due to my stated policy restriction.
