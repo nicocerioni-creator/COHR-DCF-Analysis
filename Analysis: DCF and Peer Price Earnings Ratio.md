@@ -82,3 +82,23 @@ User response: **Yes.** I would change the buy decision if the AI-investment bub
 | Average the methods, invent a peer range, or include LITE's adjusted earnings | **REJECT** | Would conceal model differences or change the lab's reported annual earnings basis. |
 
 Overall assessment: **UNRESOLVED as an investment decision; ACCEPT the calculations as conditional classroom results.** The current buy view is maintained conditionally. The decision would change if evidence showed an AI-demand collapse, materially weaker datacenter/communications demand, or excess capacity that prevents the forecast investment from producing sustainable cash flow. The original policy remains visible and unchanged in the linked policy record; this review flags inconsistencies rather than silently revising it.
+
+## Final assessment: peer choice, DCF comparison, and decision
+
+I chose Fabrinet because its FY2026 revenue is concentrated in the same demand channels as COHR: datacenter products and communications infrastructure together represent 81.2% of revenue. Its business also requires optical manufacturing capacity, inventory, production yields and capital investment. Those features make FN a useful operating comparison even though FN is primarily a contract manufacturer and COHR develops and sells its own photonics products. That difference is a material caveat because contract manufacturing can have different margins, R&D intensity, pricing power and asset ownership.
+
+Lumentum remains a relevant business candidate because it sells optical components, transceivers and switches for cloud, AI and communications networks and also faces capacity and supply-chain investment risks. I excluded it from the P/E calculation because its latest annual reported GAAP diluted EPS was **-$92.96**. A negative earnings denominator cannot support a meaningful positive P/E; I did not replace it with adjusted EPS. Lumentum's annual datacenter/communications revenue percentage also remains unresolved.
+
+The peer comparison adds a market-based check to the DCF. The DCF asks what COHR's forecast future cash flows are worth after reinvestment, debt, cash and discounting. The peer method asks what investors paid for a comparable company's latest reported earnings. The peer result can therefore reveal whether the DCF's implied value is far below or above a market earnings benchmark. It does not validate the DCF forecast.
+
+The results differ because they value different things. The DCF's $57.20 base case and $42.28–$84.03 sensitivity range depend on a five-year FCFF recovery, a 10% placeholder WACC, a 3% terminal-growth assumption and a terminal value that supplies 86.5% of enterprise value. The FN comparison applies FN's 28.728736x equity P/E to COHR's $4.12 annual reported diluted EPS and produces a **$118.36 single-peer reference**. The two methods cannot be mechanically averaged: one is a discounted enterprise-to-equity cash-flow model and the other is an equity-to-equity earnings multiple, and only one peer has usable positive EPS.
+
+### Decision
+
+**Decision: initiate, conditionally.** I can defend the DCF sensitivity range of **$42.28–$84.03** as the model's tested range, with **$57.20** as its base case. I can report **$118.36** as a conditional single-peer reference, but I withhold a peer range because Lumentum has negative EPS and no second usable peer remains. I do not average $57.20 and $118.36, and I do not present either as a guaranteed fair value.
+
+I would change the decision to watch-defer or do not initiate if evidence showed an AI-investment bubble crash, sustained deterioration in COHR's datacenter and communications demand, excess capacity or inventory, or capacity spending that failed to produce sustainable revenue, margins and cash flow. Evidence supporting continued initiation would be durable customer orders, successful capacity utilization, improving operating cash conversion after the investment period, and results that keep the FCFF recovery path credible.
+
+### Answer to the skeptical question
+
+Yes, I would maintain the buy decision even if COHR did not produce the roughly $1.18 billion annual FY2031 FCFF forecast by itself. I would change my decision if the miss reflected an AI bubble crash, much weaker demand, or excess capacity caused by building ahead of demand. The evidence that would change my view is sustained order or revenue deterioration, rising excess inventory, unused manufacturing capacity, and investment spending that fails to convert into durable cash flow. A temporary forecast miss with continuing demand and improving capacity utilization would require a revised valuation, but would not automatically end the buy thesis.
