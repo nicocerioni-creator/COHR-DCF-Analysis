@@ -108,4 +108,27 @@ Share, page 83). Therefore, because its revenue-percentage is unresolved and bec
 Lumentum will be excluded.
 
 **9/15/2026 Data and Comparable Policy Calculator Results**
+Target Prices 9/15/2026:
+FN:
+LITE:
+
+Peer Prices 9/15/2026:
+FN:
+LITE:
+
+Annual Reported Diluted EPS:
+FN:
+LITE:
+
+Fiscal Year-End:
+FN:
+LITE:
+
+Publication Date:
+FN:
+LITE:
+
+Source Locator:
+FN:
+LITE:
 
