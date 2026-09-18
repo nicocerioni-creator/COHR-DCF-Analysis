@@ -70,7 +70,7 @@ The exact comparison-date market-cap verification remains incomplete. [FinanceCh
 
 **Would you maintain your buy decision if COHR's capacity expansion did not produce the roughly $1.18 billion annual free cash flow forecast for FY2031? What evidence would make you change that decision?**
 
-User response: unresolved at the time of this review. No answer is assumed.
+User response: **Yes.** I would change the buy decision if the AI-investment bubble crashed and demand for COHR's datacenter and communications products fell materially, or if the company built excess capacity and demand proved insufficient to absorb it. Evidence that would trigger reconsideration includes sustained order or revenue deterioration in Datacenter & Communications, rising excess inventory or unused manufacturing capacity, capacity spending that fails to translate into revenue and cash flow, and evidence that the roughly $1.18 billion FY2031 FCFF forecast is no longer achievable. This answer makes the decision rule demand- and execution-sensitive rather than dependent on one missed forecast number alone.
 
 ## Decision record
 
@@ -78,7 +78,7 @@ User response: unresolved at the time of this review. No answer is assumed.
 |---|---|---|
 | The saved DCF produces $42.28–$84.03 and a $57.20 base case | **ACCEPT** | Reproduced by executing the unchanged saved script successfully; valid as conditional model output. |
 | FN gives a $118.36 COHR reference under the stated reported-EPS inputs | **ACCEPT, conditional** | Arithmetic and the saved run agree; one usable multiple, with business and policy-evidence limitations. |
-| These outputs establish that COHR is overpriced or settle the buy decision | **UNRESOLVED** | Unsourced WACC, unvalidated cash-flow recovery, bridge/timing limitations and one qualified peer prevent that conclusion. |
+| These outputs establish that COHR is overpriced or settle the buy decision | **UNRESOLVED** | Unsourced WACC, unvalidated cash-flow recovery, bridge/timing limitations and one qualified peer prevent that conclusion. The user's decision rule is now explicit: reconsider if AI demand collapses or excess capacity develops. |
 | Average the methods, invent a peer range, or include LITE's adjusted earnings | **REJECT** | Would conceal model differences or change the lab's reported annual earnings basis. |
 
-Overall assessment: **UNRESOLVED as an investment decision; ACCEPT the calculations as conditional classroom results.** The original policy remains visible and unchanged in the linked policy record; this review flags inconsistencies rather than silently revising it.
+Overall assessment: **UNRESOLVED as an investment decision; ACCEPT the calculations as conditional classroom results.** The current buy view is maintained conditionally. The decision would change if evidence showed an AI-demand collapse, materially weaker datacenter/communications demand, or excess capacity that prevents the forecast investment from producing sustainable cash flow. The original policy remains visible and unchanged in the linked policy record; this review flags inconsistencies rather than silently revising it.
