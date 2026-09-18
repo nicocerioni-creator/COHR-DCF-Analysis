@@ -108,8 +108,7 @@ page 3). Lastly, Lumentum also faces similar manufacturing investment risks: as 
 capacity to meet demand, any underutilized capacity hurts its margins, which is in line with COHR
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm, "Industry 
 Conditions," page 3). However, Lumentum reported -$92.96 diluted EPS for FY2026 ending in 6/27/2026 and 
-negative earnings do not provide a meaningful reported P/E benchmark (https://www.sec.gov/ix?doc=/Archives/ed
-gar/data/0001633978/000162828026057358/lite-20260627.htm, Item 8-Financial Statements, Note 3-Earnings Per 
+negative earnings do not provide a meaningful reported P/E benchmark (https://www.sec.gov/ix?doc=/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm, Item 8-Financial Statements, Note 3-Earnings Per 
 Share, page 83). Therefore, because its revenue-percentage is unresolved and because of its negative EPS, 
 Lumentum will be excluded.
 
