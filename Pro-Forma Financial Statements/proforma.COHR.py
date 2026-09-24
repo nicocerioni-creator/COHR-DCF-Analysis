@@ -182,6 +182,12 @@ def project(opening=OPENING, assumptions=ASSUMPTIONS):
                        - r["change_other_wc"])
         r["cash_headroom"] = r["cash"] - a["minimum_cash"]
         r["revolver_headroom"] = limit - r["revolver"]
+        # Failure-only controls make every check read zero when satisfied.
+        r["cash_floor_shortfall"] = max(0.0, -r["cash_headroom"])
+        r["revolver_limit_excess"] = max(0.0, -r["revolver_headroom"])
+        r["negative_balance_check"] = sum(max(0.0, -r[k]) for k in (
+            "cash", "gross_debt", "debt_costs", "ppe", "intangibles",
+            "inventory", "operating_liabilities", "revolver"))
         out.append(r)
         p = r
     return out
@@ -300,10 +306,16 @@ def main():
         ("Positive FCFE valued", "positive_fcfe", 1), ("Present value of positive FCFE", "fcfe_pv", 1)], results)
     print(f"{'FCFE status':43}" + "".join(f"{('negative FCFE' if r['fcfe'] < 0 else 'positive FCFE'):>15}" for r in results))
     print_table("CHECK BLOCK (zero required for reconciliation rows)", [(key, key, 1) for key in ZERO_CHECKS] + [
-        ("Cash above minimum (must be >=0)", "cash_headroom", 1),
-        ("Available revolver headroom (>=0)", "revolver_headroom", 1)], results)
+        ("Cash floor shortfall (must be zero)", "cash_floor_shortfall", 1),
+        ("Revolver limit excess (must be zero)", "revolver_limit_excess", 1),
+        ("Negative balance check (must be zero)", "negative_balance_check", 1)], results)
+    print(f"Cash floor: ${ASSUMPTIONS['minimum_cash']:,.1f} million; actual year-end cash: "
+          + " / ".join(f"${r['cash']:,.1f}" for r in results) + " million.")
     assert_balanced(results)
     print("PASS: all five years balance; cash, equity, PP&E, intangibles, debt, FCFE and working capital reconcile; minimum cash and credit limits respected.")
+    draws = [r for r in results if r["revolver_draw"] > 1e-8]
+    for r in draws:
+        print(f"{r['year']} revolver draw: ${r['revolver_draw']:,.3f} million, primarily to fund scheduled principal repayment of ${r['repayment']:,.3f} million and expansion capex while preserving the $300 million cash floor.")
     v = value_equity(results)
     print("\nVALUATION | Positive-only FCFE assignment convention")
     for label, key in [("PV of positive forecast FCFE", "explicit_pv"),
